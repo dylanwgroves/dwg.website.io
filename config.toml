@@ -7,5 +7,5 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "PhD Student, Columbia University"
-    logo = "groves2.jpg" 
+    logo = "dg_headshot.jpg" 
     
