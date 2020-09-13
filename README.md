@@ -1,6 +1,6 @@
 ## How to Edit Each Section
 
-### Sidebar
+### I DONT WANT THIS
 
 Sidebar is controlled by the file `config.toml`.
 
