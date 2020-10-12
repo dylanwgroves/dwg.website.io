@@ -1,3 +1,4 @@
 [Cows](cow_photo.jpg)
 
-**Website**: This website has been shamelessly re-purposed from [Xinyue Lin](https://xinyue-lin.com/), found at my [GitHub repository](https://github.com/gautamrao/gautamrao.github.io). 
+
+**Website**: This website design has been shamelessly re-purposed from [Xinyue Lin](https://xinyue-lin.com/), available here: [GitHub repository](https://github.com/gautamrao/gautamrao.github.io). 
