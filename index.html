@@ -1,5 +1,5 @@
 {{ define "main" -}}
-<h2 id="bio">Bio</h2>
+<h2 id="bio">About Me</h2>
 {{ with .GetPage "/sections/aboutme.md" }}
 {{ .Content }}
 {{ end }}
@@ -62,7 +62,7 @@
 
 {{ with .GetPage "/sections/personal.md" }}
 <hr>
-<h2 id="personal">Personal</h2>
+<h2 id="personal">Side Hustles</h2>
 {{ .Content }}
 {{ end }}
 
