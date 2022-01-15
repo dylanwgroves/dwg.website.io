@@ -2,4 +2,4 @@ Welcome! I am a PhD student in the Department of Political Science at Columbia U
 
 I completed my undergraduate degree at University of California at Berkeley and a masters degree at the Georgetown School of Foreign Service.
 
-__[Curriculum Vitae](/pdf/cv_2020.pdf")__ (Updated March 2020)
+__[Curriculum Vitae](/pdf/cv.pdf")__ (Updated January 2022)
